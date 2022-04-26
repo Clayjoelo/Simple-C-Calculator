@@ -1,0 +1,15 @@
+/Users/claytonleuck/Desktop/maybe-better-calculator/bin/Debug/net6.0/maybe-better-calculator
+/Users/claytonleuck/Desktop/maybe-better-calculator/bin/Debug/net6.0/maybe-better-calculator.deps.json
+/Users/claytonleuck/Desktop/maybe-better-calculator/bin/Debug/net6.0/maybe-better-calculator.runtimeconfig.json
+/Users/claytonleuck/Desktop/maybe-better-calculator/bin/Debug/net6.0/maybe-better-calculator.dll
+/Users/claytonleuck/Desktop/maybe-better-calculator/bin/Debug/net6.0/maybe-better-calculator.pdb
+/Users/claytonleuck/Desktop/maybe-better-calculator/obj/Debug/net6.0/maybe-better-calculator.csproj.AssemblyReference.cache
+/Users/claytonleuck/Desktop/maybe-better-calculator/obj/Debug/net6.0/maybe-better-calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claytonleuck/Desktop/maybe-better-calculator/obj/Debug/net6.0/maybe-better-calculator.AssemblyInfoInputs.cache
+/Users/claytonleuck/Desktop/maybe-better-calculator/obj/Debug/net6.0/maybe-better-calculator.AssemblyInfo.cs
+/Users/claytonleuck/Desktop/maybe-better-calculator/obj/Debug/net6.0/maybe-better-calculator.csproj.CoreCompileInputs.cache
+/Users/claytonleuck/Desktop/maybe-better-calculator/obj/Debug/net6.0/maybe-better-calculator.dll
+/Users/claytonleuck/Desktop/maybe-better-calculator/obj/Debug/net6.0/refint/maybe-better-calculator.dll
+/Users/claytonleuck/Desktop/maybe-better-calculator/obj/Debug/net6.0/maybe-better-calculator.pdb
+/Users/claytonleuck/Desktop/maybe-better-calculator/obj/Debug/net6.0/maybe-better-calculator.genruntimeconfig.cache
+/Users/claytonleuck/Desktop/maybe-better-calculator/obj/Debug/net6.0/ref/maybe-better-calculator.dll
