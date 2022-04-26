@@ -1,4 +1,4 @@
-# Simple-C-Calculator
+# Simple-C#-Calculator
 Simple C# calculator that runs in the terminal
 
 WARNING YOU MUST HAVE DOTNET DOWNLOADED
